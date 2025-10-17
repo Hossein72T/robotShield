@@ -1,0 +1,14 @@
+Added Component: Designator=J3(6Cnts-D-SMD)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MTSW-103-22-S-D-430"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=D12/MISO Pin=J3-1
+Added Pin To Net: NetName=5V Pin=J3-2
+Added Pin To Net: NetName=D13/SCK Pin=J3-3
+Added Pin To Net: NetName=D11/MOSI Pin=J3-4
+Added Pin To Net: NetName=DTR Pin=J3-5
+Added Pin To Net: NetName=GND Pin=J3-6
+Added Member To Class: ClassName=robotShield_CPU Member=Component J3 6Cnts-D
