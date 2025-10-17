@@ -11,14 +11,27 @@ It includes:
 
 ## Tools Used
 - Arduino IDE  
-- Altium Designer
+- Altium Designer  
 
 ---
 
 ## Project Structure
 ```
 robotShield/
-├── code/ # Arduino sketches and custom library
-├── pcb/ # Altium schematic and PCB files
-├── docs/ # Report and screenshots
-└── README.md
+ ├── code/           # Arduino sketches and custom library
+ ├── pcb/            # Altium schematic and PCB files
+ ├── docs/           # Report and screenshots
+ └── README.md
+```
+
+---
+
+## Project Contents
+- `code/` → Arduino code and ultrasonic sensor library  
+- `pcb/` → Altium schematic and PCB files  
+- `docs/` → Report and related images  
+- `README.md` → This file
+
+---
+
+Author: **Hossein Taghiloo**
