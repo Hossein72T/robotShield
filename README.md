@@ -16,3 +16,9 @@ It includes:
 ---
 
 ## Project Structure
+
+robotShield/
+ ├── code/           # Arduino sketches and custom library
+ ├── pcb/            # Altium schematic and PCB files
+ ├── docs/           # Report and screenshots
+ └── README.md
